@@ -34,7 +34,6 @@
 						x: parseInt(temp[4].trim()),
 						y: parseInt(temp[5].trim())
 					}
-					console.log(pos);
 				}
 			}else{
 				if(this.getStyle('position') == 'static') {
